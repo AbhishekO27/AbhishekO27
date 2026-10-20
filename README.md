@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @AbhishekO27
-- 👀 I’m interested in DS and Cloud Computing
-- 🌱 I’m currently learning Cloud Computing and AI 
-- 😄 Pronouns: HE/HIM
+- 👀 I’m interested in AI 
 - ⚡ Fun fact: NONE
 
 <!---
